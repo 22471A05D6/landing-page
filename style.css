@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+   
+}
+
+
+nav{
+  color: beige;
+ background-color:black;
+  
+    padding: 15px; 
+}
+li,h1,ul{
+    display: inline;
+}
+#col{
+    color: white;
+    
+}
+.abc{
+    color: white;
+    font-family: cursive;
+    font-size: 16px;
+}
+ul{
+    margin-left: 70%;
+}
+
+li{
+    color: white;
+    cursor: pointer;
+    font-size: 18px;
+    
+}
+li:hover{
+    color: white;
+}
+input{
+    width: 60%;
+    padding: 15px;
+}
+.searchbar{
+    padding-left: 200px;
+    padding-top: 0px;
+    
+   
+}
+.box{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    width: 300px;
+    font-size: 23px;
+    display: inline-block;
+}
+#products{
+    text-align: center;
+    padding-top: 90px;
+    
+  
+}
+.box :hover{
+    
+    color: blueviolet;
+    cursor: pointer;
+}
+#about{
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    font-size: 20px;
+    font-family: cursive;
+}
+#aboutus :hover{
+    color: orange;
+}
+#footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 40px;
+    font-size: 29px;
+}
+#bb{
+    background-image: url("back1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
